@@ -1,0 +1,28 @@
+This assumes you already have vscodde installed. 
+
+when first installing VSCode, to run javascript 
+
+create a file named index.html or something with .html
+
+Then add extension html preview
+https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode
+
+Write some basic html like this
+
+<html>
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <p>Hello World</p>
+    </body>
+</html>
+
+
+Press ctrl+k then press v and you'll see a sidebar pop up. 
+
+Then press ctrl+shift+v to run the html 
+
+You should see Hello World pop up in the side bar. 
+
+Now you are ready to code! 
